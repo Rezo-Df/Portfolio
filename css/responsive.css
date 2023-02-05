@@ -1,0 +1,442 @@
+@media only screen and (max-width: 1800px){
+    .row{
+        margin: 0 auto;
+        width: 65%;
+    }
+    #services{
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 1680px){
+    .row{
+        margin: 0 auto;
+        width: 70%;
+    }
+    #services{
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 1550px){
+    .row{
+        margin: 0 auto;
+        width: 75%;
+    }
+    #services{
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 1450px){
+    .row{
+        margin: 0 auto;
+        width: 80%;
+    }
+    #services{
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 1350px){
+    .row{
+        margin: 0 auto;
+        width: 85%;
+    }
+    #services{
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 1350px){
+    .row{
+        margin: 0 auto;
+        width: 90%;
+    }
+    #services{
+        margin: 0 auto;
+    }
+    .content{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1215px){
+   .item{
+       width: 450px;
+       margin: 0 auto;
+   }
+    
+}
+
+@media only screen and (max-width: 1210px){
+    .row{
+        margin: 0 auto;
+        width: 95%;
+    }
+    #services{
+        margin: 0 auto;
+    }
+    .content{
+        width: 100%;
+    }
+    
+}
+
+@media only screen and (max-width: 1170px){
+    .s-2{
+        width: 80%;
+    }
+    .more-vanilla-captions h3{
+        width: 250px;
+    }
+    .service-item {
+       width: 300px;
+    }
+}
+
+
+@media only screen and (max-width: 1160px){
+    .info{
+        width: 400px;
+    }
+    .info input{
+        width: 380px;
+    }
+    .send a{
+        padding: 15px 133px;
+    }
+    .map{
+        width: 400px;
+    }
+    .map iframe{
+        width: 375px;
+    }
+    .row{
+        width: 90%;
+    }
+
+}
+
+@media only screen and (max-width: 1120px){
+    .s3{
+        overflow: hidden;
+    }
+    .item{
+        width: 350px;
+    }
+    .s-2{
+        width: 80%;
+    }
+    .more-vanilla-captions h3{
+        width: 200px;
+    }
+    .service-item {
+       width: 250px;
+
+    }
+    .more-vanilla-captions p{
+        margin: 5px 0;
+    }
+}
+
+@media only screen and (max-width: 1055px){
+    .item{
+        margin-right: 500px;
+    }
+    .owl-dots{
+        margin-right: 250px;
+    }
+}
+
+@media only screen and (max-width: 920px){
+    .s-2{
+        width: 80%;
+    }
+    .more-vanilla-captions h3{
+        width: 200px;
+    }
+    .more-vanilla-captions p{
+        margin: 20px 0;
+    }
+    .service-item {
+       width: 200px;
+       height: 300px;
+    }
+    .info{
+        width: 350px;
+    }
+    .info input{
+        width: 330px;
+    }
+    .send a{
+        padding: 15px 110px;
+    }
+    .map{
+        width: 350px;
+    }
+    .map iframe{
+        width: 325px;
+    }
+    .row{
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 780px){
+    .banner-caption h1{
+        font-size: 60px;
+    }
+    .banner-caption p{
+        font-size: 25px;
+        margin-top: 3px;
+    }
+
+    .more-vanilla-captions{
+        margin-left: 15px;
+
+    }
+    .s-2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .more-vanilla-content{
+        margin-top: 15px;
+        display: grid;
+        grid-template-columns: auto ;
+    }
+    .more-vanilla-captions h3{
+        width: 500px;
+    }
+    .more-vanilla-captions p{
+        margin: 20px 0;
+    }
+    .service-item {
+        width: 500px;
+        height: 150px;
+    }
+    .s-2 .primary-button{
+       margin-left: 150px;
+    }
+
+    .s5 .row{
+        flex-direction: column;
+    }
+    .info{
+        width: 500px;
+        margin: 0 auto;
+    }
+    .info input{
+        width: 480px;
+    }
+    .send a{
+        padding: 20px 185px;
+    }
+    .map{
+        width: 500px;
+        margin: 15px auto;
+    }
+    .map iframe{
+        width: 475px;
+    }
+    .row{
+        width: 90%;
+    }
+    .contact{
+        height: 120vh;
+    }
+
+    .our-story-tab{
+        width: 500px;
+    }
+    .our-story-clicks{
+        display: grid;
+        grid-template-columns: auto auto;
+        align-items: center;
+    }
+    .click{
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 715px){
+    .item{
+        margin-right: 550px;
+    }
+    .owl-dots{
+        margin-right: 350px;
+    }
+}
+
+@media only screen and (max-width: 650px){
+    .item{
+        margin-right: 600px;
+    }
+    .owl-dots{
+        margin-right: 450px;
+    }
+}
+
+@media only screen and (max-width: 560px){
+    .item{
+        margin-right: 650px;
+    }
+    .owl-dots{
+        margin-right: 550px;
+    }
+
+    .s-2{
+        overflow: hidden;
+    }
+    .s-2 .primary-button{
+        margin-left: 100px;
+    }
+    .more-vanilla-captions{
+        padding-left: 50px;
+
+    }
+    .more-vanilla-captions h3{
+        width: 400px;
+    }
+    .more-vanilla-captions p{
+        margin: 20px 0;
+    }
+    .service-item {
+        width: 400px;
+        height: 200px;
+    }
+
+    .our-story-tab{
+        width: 400px;
+    }
+    .our-story-tab p{
+        height: 150px;
+    } 
+
+
+    .info{
+        width: 300px;
+        margin: 0 auto;
+    }
+    .info input{
+        width: 280px;
+    }
+    .send a{
+        padding: 20px 85px;
+    }
+    .map{
+        width: 300px;
+        margin: 15px auto;
+    }
+    .map iframe{
+        width: 275px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .item{
+        margin-right: 700px;
+    }
+    .owl-dots{
+        margin-right: 660px;
+    }
+}
+
+@media only screen and (max-width: 445px){
+    .banner-caption h1{
+        font-size: 50px;
+    }
+    .banner-caption p{
+        font-size: 25px;
+        margin-top: 3px;
+    }
+
+    .s-2 .primary-button{
+        margin-left: 15px;
+    }
+    .more-vanilla-captions{
+        padding-left: 125px;
+
+    }
+    .more-vanilla-captions h3{
+        width: 240px;
+    }
+    .more-vanilla-captions p{
+        width: 247px;
+        margin: 20px 0;
+    }
+    .service-item {
+        width: 260px;
+        height: 210px;
+    }
+
+    .item{
+        width: 250px;
+        margin-right: 750px;
+    }
+    .owl-dots{
+        margin-right: 650px;
+    }
+
+    .our-story-tab{
+        width: 260px;
+    }
+    .our-story-tab p{
+        height: 220px;
+    }
+    .our-story-clicks{
+        display: grid;
+        grid-template-columns: auto ;
+    }
+
+    .info{
+        width: 260px;
+        margin: 0 auto;
+    }
+    .info input{
+        width: 240px;
+    }
+    .send a{
+        padding: 20px 65px;
+    }
+    .map{
+        width: 260px;
+        margin: 15px auto;
+    }
+    .map iframe{
+        width: 235px;
+    }
+
+    footer p{
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    .item{
+        margin-right: 780px;
+    }
+    .owl-dots{
+        margin-right: 720px;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    .item{
+        margin-right: 800px;
+    }
+    .owl-dots{
+        margin-right: 750px;
+    }
+}
+
+@media only screen and (max-width: 300px){
+    .item{
+        margin-right: 835px;
+    }
+    .owl-dots{
+        margin-right: 820px;
+    }
+}
